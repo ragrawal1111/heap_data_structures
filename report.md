@@ -94,10 +94,10 @@ Each task stores:
 
 The scheduler uses a max-heap, so the task with the highest priority is extracted first. The provided implementation includes a simple demo in `priority_queue.py` and can be extended with a full simulation if desired.
 
-## Key Takeaways
+## Key Learnings
 
-- Understand array-based heap indexing and parent/child relationships.
-- Be able to explain `sift_up` and `sift_down` and why they are $O(\log n)$.
-- Know why Heapsort is $O(n \log n)$ regardless of input order.
-- Compare Heapsort, Quicksort, and Mergesort empirically and theoretically.
-- Connect heap-based priority queues to scheduling and task management.
+- Learned how array-based heaps map parent and child indices.
+- Can explain `sift_up` and `sift_down` and why they run in $O(\log n)$.
+- Understand why Heapsort stays $O(n \log n)$ for any input order.
+- Compared Heapsort, Quicksort, and Mergesort using benchmarks and theory.
+- Connected heap-based priority queues to real scheduling tasks.
