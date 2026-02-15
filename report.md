@@ -1,3 +1,13 @@
+# Rajiv Agrawal
+
+Assignment 4: Heap Data Structures: Implementation, Analysis, and Applications
+
+Algorithms and Data Structures (MSCS-532-M80),
+
+February 15, 2026
+
+
+
 # Assignment 4: Heap Data Structures
 
 ## Heapsort Implementation
